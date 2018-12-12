@@ -6,7 +6,6 @@ namespace FirstApp
 {
     public interface IX
     {
-        //My Name is Umair
         void DoX();
     }
 }
