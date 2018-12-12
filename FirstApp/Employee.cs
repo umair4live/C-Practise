@@ -13,6 +13,7 @@ namespace FirstApp
 
         public Employee()  //: base()
         {
+            Console.WriteLine("Umiar");
         }
         
         public Employee(string name,int salary) : base(name)
